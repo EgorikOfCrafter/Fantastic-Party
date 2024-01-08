@@ -1,0 +1,99 @@
+body {
+    font-family: sans-serif;
+    background-color: deepskyblue;
+}
+
+header {
+    background-color: deepskyblue;
+    margin: 15px;
+}
+
+header img {
+    border: 5px solid deepskyblue;
+}
+
+header a {
+    text-decoration: none;
+    border: 5px solid aquamarine;
+    border-radius: 10px;
+    text-align: end;
+    color: azure;
+}
+
+header b {
+    color: azure;
+}
+
+nav {
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: deepskyblue;
+    border: 5px solid aquamarine;
+    border-radius: 10px;
+    color: azure;
+}
+
+main h1 {
+    background-color: deepskyblue;
+    color: azure;
+    text-align: center;
+}
+
+footer {
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+footer p {
+    color: azure;
+    border: 5px solid aquamarine;
+    border-radius: 10px;
+}
+
+main p{
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+.imgcool {
+    width: 400px;
+    border: 5px solid firebrick;
+}
+
+main h2 {
+    background-color: deepskyblue;
+    text-align: center;
+    color: azure;
+}
+
+.nineten {
+    border: 5px solid crimson;
+}
+
+.buttonfooter {
+    text-decoration: none;
+    color: azure;
+    border: 5px solid aquamarine;
+    border-radius: 10px;
+}
+
+.comp {
+    text-decoration: none;
+    text-align: center;
+    background-color: deepskyblue;
+    color: azure;
+    border: 5px solid aquamarine;
+    border-radius: 10px;
+}
+
+p {
+    color: azure;
+}
+
+img {
+    background-color: white;
+}
